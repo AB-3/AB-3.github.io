@@ -1,5 +1,8 @@
+#build settings
 theme: jekyll-theme-hacker
+markdown: kramdown
+#basic settings
 title: Ahmed Bholat's Portfolio/Blog
 description: This website will be a collection of my projects
 author: Ahmed Bholat
-github_username: AB-3 
+github_username: AB-3
