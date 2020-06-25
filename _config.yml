@@ -4,5 +4,15 @@ markdown: kramdown
 #basic settings
 title: Ahmed Bholat's Portfolio/Blog
 description: This website will be a collection of my projects
-author: Ahmed Bholat
-github_username: AB-3
+author:
+    name             : "Ahmed Bholat"
+    avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+    bio              :
+    location         : "Canada"
+    email            :
+    uri              :
+    home             : # null (default), "absolute or relative url to link to author home"
+    github           : "AB-3"
+    gitlab           :
+    linkedin         : "ahmed-bholat" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+    stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
