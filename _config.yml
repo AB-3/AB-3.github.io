@@ -2,7 +2,7 @@
 theme: jekyll-theme-hacker
 markdown: kramdown
 #basic settings
-title: Ahmed Bholat's Portfolio/Blog
+title: Ahmed Bholat's Portfolio
 description: This website will be a collection of my projects
 author:
     name             : "Ahmed Bholat"
