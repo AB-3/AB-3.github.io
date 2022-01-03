@@ -20,5 +20,3 @@ I also ran diagnostics, to evaluate the fit of the model, and calculated the mea
 # [Project 3: Does reach impact the outcome of an MMA bout?](https://github.com/AB-3/MMA-Data-Analysis/blob/main/fighter_reach.ipynb)
 For this project I scraped data  from [UFC stats](http://ufcstats.com/statistics/fighters), using the python libraries, Beautiful soup and requests, cleaned the data using Pandas and Numpy libraries, and conducted analysis and visualization using  seaborn, matplotlib, scipy, and statsmodel libraries. The purpose of this project was to examine the relationship with fighter reach, and the win to fights ratio.
 
-# Project 4: scraping and visualizing fighter stats
-coming soon 
